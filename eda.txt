@@ -1,0 +1,2 @@
+-- How many olympics games have been held?
+select count(distinct(games)) from alt_events;
